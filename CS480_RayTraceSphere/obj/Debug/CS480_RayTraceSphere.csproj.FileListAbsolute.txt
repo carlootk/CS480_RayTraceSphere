@@ -1,0 +1,9 @@
+C:\Users\CLo\source\repos\CS480_RayTraceSphere\CS480_RayTraceSphere\bin\Debug\CS480_RayTraceSphere.exe.config
+C:\Users\CLo\source\repos\CS480_RayTraceSphere\CS480_RayTraceSphere\bin\Debug\CS480_RayTraceSphere.exe
+C:\Users\CLo\source\repos\CS480_RayTraceSphere\CS480_RayTraceSphere\bin\Debug\CS480_RayTraceSphere.pdb
+C:\Users\CLo\source\repos\CS480_RayTraceSphere\CS480_RayTraceSphere\obj\Debug\CS480_RayTraceSphere.Form1.resources
+C:\Users\CLo\source\repos\CS480_RayTraceSphere\CS480_RayTraceSphere\obj\Debug\CS480_RayTraceSphere.Properties.Resources.resources
+C:\Users\CLo\source\repos\CS480_RayTraceSphere\CS480_RayTraceSphere\obj\Debug\CS480_RayTraceSphere.csproj.GenerateResource.cache
+C:\Users\CLo\source\repos\CS480_RayTraceSphere\CS480_RayTraceSphere\obj\Debug\CS480_RayTraceSphere.csproj.CoreCompileInputs.cache
+C:\Users\CLo\source\repos\CS480_RayTraceSphere\CS480_RayTraceSphere\obj\Debug\CS480_RayTraceSphere.exe
+C:\Users\CLo\source\repos\CS480_RayTraceSphere\CS480_RayTraceSphere\obj\Debug\CS480_RayTraceSphere.pdb
